@@ -1,8 +1,8 @@
 ### Olá , Sou O Luis Felipe. 👋
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning : PHP,JS
+- 🖥️ Atualmente estou trabalhando em ...
+- 🌱 Atualmente estou Aprendendo : PHP,JS.
 - 😄 Pronouns: ele/dele
 
 <div>
