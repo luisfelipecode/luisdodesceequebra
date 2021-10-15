@@ -2,7 +2,7 @@
 
 
 - 🖥️ Atualmente estou trabalhando em ...
-- 🌱 Atualmente estou Aprendendo : PHP,JS.
+- 🌱 Atualmente estou Aprendendo : HTML,CSS E JAVASCRIPT.
 - 😄 Pronouns: ele/dele
 
 <div>
