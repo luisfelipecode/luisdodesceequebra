@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋, Sou Luis Felipe</h1>
 <h3 align="center">Frontend Developer, Conhecimentos: HTML, CSS, JavaScript, Sass, Bootstrap e ReactJS.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luisdodesceequebra&label=Profile%20views&color=0e75b6&style=flat" alt="luisdodesceequebra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luisfelipecode&label=Profile%20views&color=0e75b6&style=flat" alt="luisfelipecode" /> </p>
 
 
 
-<p align="left"> <a href="https://twitter.com/luis_felipelf7" target="blank"><img src="https://img.shields.io/twitter/follow/luis_felipelf7?logo=twitter&style=for-the-badge" alt="luis_felipelf7" /></a> </p>
+
 
 - 📫 How to reach me **luissaopaulo5@gmail.com**
 
@@ -26,14 +26,13 @@
 
 ### 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisdodesceequebra&theme=dracula&show_icons=true&locale=en&layout=compact" alt="luisdodesceequebra" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisfelipecode&theme=dracula&show_icons=true&locale=en&layout=compact" alt="luisfelipecode" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luisdodesceequebra&theme=dracula&show_icons=true&locale=en" alt="luisdodesceequebra" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luisfelipecode&theme=dracula&show_icons=true&locale=en" alt="luisfelipecode" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luisdodesceequebra&theme=dracula" alt="luisdodesceequebra" /></p>
 
 ###
 ###
 
-  ![Snake animation](https://github.com/luisdodesceequebra/luisdodesceequebra/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/luisfelipecode/luisfelipecode/blob/output/github-contribution-grid-snake.svg)
 
