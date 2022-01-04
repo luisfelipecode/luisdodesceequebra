@@ -9,7 +9,6 @@ Conhecimentos: HTML, CSS, JavaScript, Sass, Bootstrap e ReactJS.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisdodesceequebra&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-  ###
 
 ### Languages and Tools: 
 
